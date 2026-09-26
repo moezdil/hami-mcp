@@ -1,4 +1,4 @@
-module github.com/mesutoezdil/hami-mcp
+module github.com/moezdil/hami-mcp
 
 go 1.25.5
 

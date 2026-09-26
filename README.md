@@ -58,7 +58,7 @@ HAMi exposes a /metrics endpoint, not a real PromQL server, so range queries and
 ### Build
 
 ```
-git clone git@github.com:mesutoezdil/hami-mcp.git
+git clone git@github.com:moezdil/hami-mcp.git
 cd hami-mcp
 go build -o hami-mcp-server .
 go build -o e2e ./cmd/e2e/
